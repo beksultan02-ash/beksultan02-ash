@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Beksultan. Started QA engeeniring and making own projects.
+- 👋 Hi, I’m Beksultan. Making projects for my own.
 
 <!---
 beksultan02-ash/beksultan02-ash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
